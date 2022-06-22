@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "seguridad-para-ti"]
+	url = https://github.com/JobB943/seguridad-para-ti-.git
+	fetch = +refs/heads/*:refs/remotes/seguridad-para-ti/*
